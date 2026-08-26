@@ -1,0 +1,30 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, heroImage, author, readTime } = post.data;
+---
+
+<article class="post-card">
+	<a class="post-card__image-link" href={`/post/${post.id}/`} aria-label={title}>
+		<img class="post-card__image" src={heroImage} alt="" loading="lazy" />
+	</a>
+	<div class="post-card__body">
+		<div class="author-line">
+			<img src="/images/author.jpg" alt="" />
+			<div>
+				<span>{author}</span>
+				<div><FormattedDate date={pubDate} /> <span aria-hidden="true">·</span> {readTime} min read</div>
+			</div>
+		</div>
+		<a class="post-card__title-link" href={`/post/${post.id}/`}>
+			<h2>{title}</h2>
+		</a>
+		<p class="post-card__excerpt">{description}</p>
+	</div>
+</article>

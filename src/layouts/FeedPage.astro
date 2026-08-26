@@ -1,0 +1,33 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+interface Props {
+	posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<div class="site-frame">
+			<Header />
+			<main class="feed">
+				<h1 class="sr-only">{SITE_TITLE}</h1>
+				<div class="post-list">
+					{posts.map((post) => <PostCard post={post} />)}
+				</div>
+			</main>
+			<Footer />
+		</div>
+	</body>
+</html>
