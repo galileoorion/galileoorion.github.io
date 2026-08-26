@@ -11,19 +11,19 @@ views: 15
 likes: 1
 author: "Attila Kulik"
 ---
-[Studies show](https://en.wikipedia.org/wiki/First_impression_(psychology)#Speed_and_accuracy) that we form opinions about people within a single second. Our first impressions are surprisingly resilient. But can we truly understand and accept someone in just one second? Acceptance of others improves both personal and professional relationships. In a world where *diversity* is a buzzword, it's surprising how rarely we hear the words *non-judgmental* and *acceptance*.
+[Studies show](https://en.wikipedia.org/wiki/First_impression_(psychology)#Speed_and_accuracy) that we form opinions about people within a single second. Our first impressions are surprisingly resilient. But can we truly understand and accept someone in just one second? Acceptance of others improves both personal and professional relationships. In a world where *diversity* is a buzzword, it's surprising how rarely we hear the words *non-judgemental* and *acceptance*.
 
 ### *Philosophy*
 
 We are prone to jump to conclusions. Let me illustrate this with a short story.
 
-Ava has swum far away from the beach. She loves swimming when the sea is calm, like on this sunny morning. No one else has ventured out as far, but she enjoys the solitude. Suddenly, a dorsal fin appears in the distance behind her. Ava doesn't notice it. It's approaching rapidly. Ava swims with all of her strength. She turns her head, breaths in deeply, then breathes out. Little bubbles rush to the surface. There is nothing else under the water, only the infinite abyss of the ocean. As if no creatures were living here, or as if they were all hiding from something. The fin behind her disappears, then appears again. The streamlined, powerful body of the animal splits the water like a torpedo. Millions of years of evolution developed it to perfection. No human has any chance to compete with it. Ava stops. She pulls her goggles up onto her forehead. She is looking towards the beach. Suddenly, something touches her leg. Ava screams. The head of an animal emerges from the sea. It's a dolphin.
+Ava has swum far away from the beach. She loves swimming when the sea is calm, like on this sunny morning. No one else has ventured out as far, but she enjoys the solitude. Suddenly, a dorsal fin appears in the distance behind her. Ava doesn't notice it. It's approaching rapidly. Ava swims with all of her strength. She turns her head, breathes in deeply, then breathes out. Little bubbles rush to the surface. There is nothing else under the water, only the infinite abyss of the ocean. As if no creatures were living here, or as if they were all hiding from something. The fin behind her disappears, then appears again. The streamlined, powerful body of the animal splits the water like a torpedo. Millions of years of evolution have honed it to perfection. No human has any chance to compete with it. Ava stops. She pulls her goggles up onto her forehead. She is looking towards the beach. Suddenly, something touches her leg. Ava screams. The head of an animal emerges from the sea. It's a dolphin.
 
 My question is: what animal did you think of while Ava was swimming?
 
 We always have a theory in our mind. We assume why the animal is swimming towards Ava, and what animal it is, though we don't know anything other than it has a dorsal fin and a streamlined, powerful body.
 
-It is completely natural that we form an opinion, even if we don't have enough information. It helped us in the past when we needed to flee from a predator, but it can also lead us to false conclusions. It is rarely useful in everyday life. If we stop just for a moment to look for an alternative explanation, we can make a huge step forward. Philosophy maximises this step. It is the library of ways of thinking. If we are looking for a starting point how to think differently, philosophy is an obvious choice. This immense knowledge that humankind has gathered in the last 3000 years is just too vast to ignore.
+It is completely natural that we form an opinion, even if we don't have enough information. It helped us in the past when we needed to flee from a predator, but it can also lead us to false conclusions. It is rarely useful in everyday life. If we stop just for a moment to look for an alternative explanation, we can take a huge step forward. Philosophy maximises this step. It is the library of ways of thinking. If we are looking for a starting point for how to think differently, philosophy is an obvious choice. This immense knowledge that humankind has gathered over the past 3,000 years is just too vast to ignore.
 
 ### *Literature*
 
@@ -31,23 +31,21 @@ Besides philosophy, literature, too, can help us widen our horizons. It shows us
 
 ### *Devils and Angels*
 
-Good news for those who are not thrilled by the idea of reading literature and philosophy that we can improve ourselves in countless ways.
+The good news for those not thrilled by the idea of reading literature and philosophy is that we can improve ourselves in countless ways.
 
-Each cloud has a silver lining. This proverbial truth can help us understand others better. There are neither devils nor angels among us, just human beings with strengths and weaknesses. If we practice to notice the good in others, we can improve our capability to be more accepting. If you can tell at least one positive characteristic of someone who you don't like, then you are becoming less judgemental.
-
-<br />
+Every cloud has a silver lining. This proverbial truth can help us understand others better. There are neither devils nor angels among us, just human beings with strengths and weaknesses. If we practise noticing the good in others, we can improve our capability to be more accepting. If you can name at least one positive quality in someone you don't like, then you are becoming less judgemental.
 
 ### *Delusion of Prominence*
 
 *Though this be madness, yet there is method in 't.*
 
-*/William Shakespear: Hamlet/*
+*/William Shakespeare: Hamlet/*
 
-Often, our judgement comes from the belief that our opinion, our lifestyle, our way of thinking is better than others'. We frequently measure others' opinion on a scale that we created. We can think about why others think in the way they do. Our opinion is based on numerous assumptions of which we are usually not aware of. Some of these assumptions are true, some not. For example, we are prone to assume that others are in the same situation as we are, so we think we know the correct way of thinking that leads to the right actions.
+Often, our judgement comes from the belief that our opinion, our lifestyle, our way of thinking is better than others'. We frequently measure others' opinions on a scale we created. We can ask why others think the way they do. Our opinion is based on numerous assumptions of which we are usually not aware. Some of these assumptions are true, some not. For example, we are prone to assume that others are in the same situation as we are, so we think we know the correct way of thinking that leads to the right actions.
 
-According to Socrates, an unexamined life is not worth living. In my opinion, life is worth living whether it is examined or not. I agree, however, that if someone lives an unexamined life, if she is unaware of her way of thinking and the deeper motivations that drive her actions, if she just lives as her instincts dictate, she misses out a lot.
+According to Socrates, an unexamined life is not worth living. In my opinion, life is worth living whether it is examined or not. I agree, however, that if someone lives an unexamined life, if she is unaware of her way of thinking and the deeper motivations that drive her actions, if she just lives as her instincts dictate, she misses out on a lot.
 
-We must practise the same approach towards others. Instead of relying on hurried assumption, we can stop for a moment and try to understand others' way of thinking and their actions from their point of view.
+We must practise the same approach towards others. Instead of relying on hurried assumptions, we can stop for a moment and try to understand others' way of thinking and their actions from their point of view.
 
 *Everything that irritates us about others*
 
@@ -59,7 +57,7 @@ Carl Jung states an important point in the quote above. Everything that annoys u
 
 In brief,
 
-* if we don't let be swept away by annoyance, but see it as an opportunity,
+* if we don't let ourselves be swept away by annoyance, but see it as an opportunity,
 
 * if we don't forget that philosophy and literature are tools that people have been using for three millennia to improve themselves,
 
@@ -67,7 +65,7 @@ In brief,
 
 * if we endeavour to see others' opinions and actions from their point of view,
 
-* if we train ourself to notice the good in others,
+* if we train ourselves to notice the good in others,
 
-we can make a big step towards a more open and less judgemental mindset. It can help us develop healthier and deeper relationships both in our professional and in our private lives.
+we can take a big step towards a more open and less judgemental mindset. It can help us develop healthier and deeper relationships both in our professional and in our private lives.
 

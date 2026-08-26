@@ -11,7 +11,7 @@ views: 128
 likes: 1
 author: "Attila Kulik"
 ---
-Auguste Rodin, The Kiss. © Musée Rodin. Photo: Adam Rzepka.
+*Auguste Rodin, The Kiss. © Musée Rodin. Photo: Adam Rzepka.*
 
 Perfection is ignorance.
 
@@ -35,15 +35,15 @@ Does that sound like perfect love to you? Isn't it strange that Plato believed t
 
 ### *Was Romeo and Juliet's love perfect?*
 
-According to Plato, ideas are abstract. Abstraction means stripping away all that is irrelevant to focus on the essential. When Newton formulated his theory of gravity in [Philosophiæ Naturalis Principia Mathematica](https://en.wikipedia.org/wiki/Newton's_law_of_universal_gravitation), he based it on the notion of a [point mass](https://en.wikipedia.org/wiki/Point_particle#Point_mass). He ignored the fact that any object with mass also occupies space. Clearly, the theory doesn't perfectly match physical reality in every detail, yet it is accurate enough to predict the motion of celestial bodies.
+According to Plato, ideas are abstract. Abstraction means stripping away all that is irrelevant to focus on the essential. When Newton formulated his theory of gravity in *[Philosophiæ Naturalis Principia Mathematica](https://en.wikipedia.org/wiki/Newton's_law_of_universal_gravitation)*, he based it on the notion of a [point mass](https://en.wikipedia.org/wiki/Point_particle#Point_mass). He ignored the fact that any object with mass also occupies space. Clearly, the theory doesn't perfectly match physical reality in every detail, yet it is accurate enough to predict the motion of celestial bodies.
 
 In this sense, ignorance is essential to abstraction. If we accept Plato's view that abstraction is necessary for perfection, then we must also accept that perfection cannot exist without some form of ignorance.
 
 Now, let's return to Romeo and Juliet. Imagine we're watching the play unfold in the theatre. Juliet, standing on her balcony, muses aloud:
 
-"O Romeo, Romeo! Wherefore art thou Romeo?" -- though perhaps she should be asking, "Oh Romeo, do I really know? Or am I just idealising you from the solitude of my room?"
+"O Romeo, Romeo! Wherefore art thou Romeo?" --- though perhaps she should be asking, "Oh Romeo, do I really know? Or am I just idealising you from the solitude of my room?"
 
-From Romeo's perspective, hidden in the bush beneath the balcony, the situation is no different. It's easy to fall madly in love with Juliet when he cannot see her flaws. What is "perfect love," if not the complete ignorance of the other's faults? But wait --- is that really what perfect love is?
+From Romeo's perspective, hidden in the bushes beneath the balcony, the situation is no different. It's easy to fall madly in love with Juliet when he cannot see her flaws. What is "perfect love," if not the complete ignorance of the other's faults? But wait --- is that really what perfect love is?
 
 No, it isn't. At this stage in the story, Romeo and Juliet's love is platonic in the sense that it is idealised --- but it is far from perfect. We cannot reach perfection by ignoring what is *important*.
 
@@ -51,7 +51,7 @@ No, it isn't. At this stage in the story, Romeo and Juliet's love is platonic in
 
 Originally, Plato believed that only one perfect form could exist for each concept. However, he later challenged his own theory in his dialogue [Parmenides](https://en.wikipedia.org/wiki/Parmenides_(dialogue)). It's easy to see why uniqueness is not required for perfection. Let's take an example from geometry, as Plato often did: a circle is a perfect form. But if only one perfect circle could exist, how would we make sense of two intersecting circles? Clearly, perfection does not imply exclusivity.
 
-The same holds true for love. According to the 19th-century concept of romantic love, there is only one person who is a perfect match for you: your soulmate. This idea may have made practical sense two hundred years ago, when people had far fewer options in choosing a partner. Think of [Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice) (1813): Elizabeth Bennet had to choose between George Wickham and Mr. Darcy. Her opportunities were limited, especially after discovering that Wickham was wicked. But surely, there was at least one other man in the world who could have been just as good a match for her as Mr. Darcy. If perfection is not unique, then perfect love doesn't have to be unique either.
+The same holds true for love. According to the 19th-century concept of romantic love, there is only one person who is a perfect match for you: your soulmate. This idea may have made practical sense two hundred years ago, when people had far fewer options in choosing a partner. Think of [Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice) (1813): Elizabeth Bennet had to choose between Mr Wickham and Mr Darcy. Her opportunities were limited, especially after discovering that Wickham was wicked. But surely, there was at least one other man in the world who could have been just as good a match for her as Mr Darcy. If perfection is not unique, then perfect love doesn't have to be unique either.
 
 ### *What if Romeo and Juliet had known what perfect love was?*
 
@@ -61,8 +61,8 @@ We can learn a great deal from this story about how Plato's philosophy might wor
 
 Imagine Juliet had studied Plato attentively. When she wakes up and sees Romeo's lifeless body, she could have thought:
 
-"I love Romeo. But love isn't perfect. I'm only fourteen. I don't even fully know myself, let alone Romeo. If I'm unaware of his flaws, then I'm not truly in love --- I only *think* I am. Real love means knowing his faults and accepting them. And even if Romeo was perfect for me, perfection isn't unique. I might find someone else when I am a bit older. I'm devastated that Romeo is gone, but I'm not going to kill myself." And so she lives.
+"I love Romeo. But love isn't perfect. I'm only fourteen. I don't even fully know myself, let alone Romeo. If I'm unaware of his flaws, then I'm not truly in love --- I only *think* I am. Real love means knowing his faults and accepting them. And even if Romeo were perfect for me, perfection isn't unique. I might find someone else when I am a bit older. I'm devastated that Romeo is gone, but I'm not going to kill myself." And so she lives.
 
-The story becomes even better if Romeo had read Plato. Though heartbroken at the sight of Juliet's seemingly lifeless body, he refrains from drinking the poison. A few minutes later, Juliet stirs, opens her eyes, and sees Romeo crying. Confused, she calls out his name. Romeo looks up, astonished and overjoyed, and kisses her.
+The story would be better still if Romeo had read Plato. Though heartbroken at the sight of Juliet's seemingly lifeless body, he refrains from drinking the poison. A few minutes later, Juliet stirs, opens her eyes, and sees Romeo crying. Confused, she calls out his name. Romeo looks up, astonished and overjoyed, and kisses her.
 
 Philosophy can save lives!
