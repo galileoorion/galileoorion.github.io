@@ -17,7 +17,7 @@ He is the father of [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanis
 
 > All things are numbers
 
-But how could this idea make him so influential? It doesn't seem true, does it? For example, how could we describe friendship or love with numbers?
+But how could this idea make him so influential? First, it doesn't seem true, does it? For example, how could we describe friendship or love with numbers?
 
 Anyone who was bored even once in a maths class would say this isn't true:
 

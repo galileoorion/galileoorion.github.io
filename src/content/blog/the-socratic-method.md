@@ -41,7 +41,7 @@ To show how it works, let's imagine someone who does not believe in COVID-19. Th
 
 "Sure, I will."
 
-I wish it were so easy to convince people in real life, but this little example demonstrates how the Socratic dialogue works: someone has a theory; the other person asks about the details and the underlying beliefs and assumptions. The elements of the theory are seemingly in harmony. But when the questioner goes deeper and asks about the consequences, she bumps into a contradiction. The purpose of the questions is to find contradictions, then to propose a new theory that is free from them.
+I wish it were so easy to convince people in real life :), but this little example demonstrates how the Socratic dialogue works: someone has a theory; the other person asks about the details and the underlying beliefs and assumptions. The elements of the theory are seemingly in harmony. But when the questioner goes deeper and asks about the consequences, she bumps into a contradiction. The purpose of the questions is to find contradictions, then to propose a new theory that is free from them.
 
 What we can learn from [Socrates](https://en.wikipedia.org/wiki/Socrates) is that we need a clear, consistent way of thinking to define exactly what is important to us, what drives us. We must rid our assumptions and beliefs of contradictions, so that we can be sure that our actions will not have unforeseen, unfortunate consequences, and that our path leads us where we want to go.
 
