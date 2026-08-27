@@ -2,7 +2,7 @@
 title: "Nothing but the Truth"
 description: "Plato is one of the most prominent philosophers of Ancient Greece. Yet opinions remain far away from the realm of truth."
 pubDate: "2021-06-27"
-updatedDate: "2025-08-04"
+updatedDate: "2026-08-27"
 heroImage: "/images/nothing-but-the-truth.jpg"
 heroImageAlt: "A hedgehog peering over a wooden ledge"
 heroImageCaption: "A hedgehog peers beyond the edge of what is immediately visible."

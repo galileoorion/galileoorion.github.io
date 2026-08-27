@@ -2,7 +2,7 @@
 title: "Plato, or How to escape from a Nuclear Bunker?"
 description: "Plato's allegory of the cave is probably the best-known parable in Western philosophy."
 pubDate: "2020-10-25"
-updatedDate: "2020-12-11"
+updatedDate: "2026-08-27"
 heroImage: "/images/plato-cave.jpg"
 heroImageAlt: "A star-filled night sky seen through the opening of a rocky cave"
 heroImageCaption: "The view beyond a cave evokes Plato's allegory of leaving shadows behind."

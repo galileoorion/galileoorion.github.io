@@ -2,7 +2,7 @@
 title: "Could philosophy have saved Romeo and Juliet?"
 description: "Perfection is ignorance. Love is perfection. Love is ignorance."
 pubDate: "2021-03-12"
-updatedDate: "2025-08-04"
+updatedDate: "2026-08-27"
 heroImage: "/images/romeo-and-juliet.jpeg"
 heroImageAlt: "A white sculpture of two lovers embracing against a dark background"
 heroImageCaption: "Two lovers embrace, reflecting the idealised love of Romeo and Juliet."

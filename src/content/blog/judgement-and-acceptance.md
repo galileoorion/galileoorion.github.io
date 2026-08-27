@@ -2,7 +2,7 @@
 title: "Judgement and Acceptance"
 description: "We form opinions about people within a single second. Can we become less judgemental and more accepting?"
 pubDate: "2020-12-11"
-updatedDate: "2025-08-04"
+updatedDate: "2026-08-27"
 heroImage: "/images/judgement-and-acceptance.jpg"
 heroImageAlt: "Two grey wolves resting together in snow, one leaning against the other"
 heroImageCaption: "Two wolves rest together, suggesting trust and acceptance."

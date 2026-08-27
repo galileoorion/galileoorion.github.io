@@ -2,7 +2,7 @@
 title: "Pythagoras, the guy who loved numbers"
 description: "Pythagoras is one of the strangest and most influential philosophers who ever lived."
 pubDate: "2020-07-04"
-updatedDate: "2020-12-10"
+updatedDate: "2026-08-27"
 heroImage: "/images/pythagoras.jpg"
 heroImageAlt: "Profile of a ring-tailed lemur with a bright amber eye"
 heroImageCaption: "A ring-tailed lemur looks intently into the distance."

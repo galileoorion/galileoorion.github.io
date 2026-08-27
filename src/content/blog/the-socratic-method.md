@@ -2,7 +2,7 @@
 title: "The Socratic Method"
 description: "An argumentative dialogue designed to stimulate critical thinking and draw out ideas and assumptions."
 pubDate: "2020-07-26"
-updatedDate: "2020-12-10"
+updatedDate: "2026-08-27"
 heroImage: "/images/socratic-method.jpg"
 heroImageAlt: "Two bright green parrots facing each other on a branch"
 heroImageCaption: "Two parrots face one another, suggesting dialogue and exchange."
