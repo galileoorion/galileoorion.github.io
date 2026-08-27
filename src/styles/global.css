@@ -16,16 +16,14 @@
 
 html {
 	min-width: 320px;
-	background: #c2cacb;
+	background: #e3e5e3;
 }
 
 body {
 	margin: 0;
 	min-height: 100vh;
 	color: var(--ink);
-	background:
-		linear-gradient(rgba(238, 241, 240, 0.46), rgba(226, 231, 230, 0.36)),
-		url('/images/background.jpg') center top / cover fixed no-repeat;
+	background: #e3e5e3;
 	font-family: var(--serif);
 	font-size: 16px;
 	line-height: 1.55;
