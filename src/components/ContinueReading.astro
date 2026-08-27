@@ -1,0 +1,40 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+---
+
+{
+	posts.length > 0 && (
+		<section class="continue-reading" aria-labelledby="continue-reading-title">
+			<h2 id="continue-reading-title">Continue reading</h2>
+			<div class="continue-reading__grid">
+				{posts.map((post) => (
+					<article class="continue-reading__card">
+						<a href={`/post/${post.id}/`}>
+							<img
+								src={post.data.heroImage}
+								alt={`Illustration for ${post.data.title}`}
+								loading="lazy"
+							/>
+							<div class="continue-reading__body">
+								<p class="continue-reading__category">{post.data.category}</p>
+								<h3>{post.data.title}</h3>
+								<p class="continue-reading__meta">
+									<FormattedDate date={post.data.pubDate} />
+									<span aria-hidden="true"> · </span>
+									{post.data.readTime} min read
+								</p>
+							</div>
+						</a>
+					</article>
+				))}
+			</div>
+		</section>
+	)
+}
