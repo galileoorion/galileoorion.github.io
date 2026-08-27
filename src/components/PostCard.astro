@@ -7,7 +7,7 @@ interface Props {
 }
 
 const { post } = Astro.props;
-const { title, description, pubDate, heroImage, heroImageAlt, author, readTime } = post.data;
+const { title, description, pubDate, heroImage, heroImageAlt, author, readTime, category } = post.data;
 ---
 
 <article class="post-card">
@@ -15,16 +15,17 @@ const { title, description, pubDate, heroImage, heroImageAlt, author, readTime }
 		<img class="post-card__image" src={heroImage} alt={heroImageAlt} loading="lazy" />
 	</a>
 	<div class="post-card__body">
-		<div class="author-line">
+		<p class="post-card__category">{category}</p>
+		<a class="post-card__title-link" href={`/post/${post.id}/`}>
+			<h2>{title}</h2>
+		</a>
+		<p class="post-card__excerpt">{description}</p>
+		<div class="author-line post-card__meta">
 			<img src="/images/author.jpg" alt={`Portrait of ${author}`} />
 			<div>
 				<span>{author}</span>
 				<div><FormattedDate date={pubDate} /> <span aria-hidden="true">·</span> {readTime} min read</div>
 			</div>
 		</div>
-		<a class="post-card__title-link" href={`/post/${post.id}/`}>
-			<h2>{title}</h2>
-		</a>
-		<p class="post-card__excerpt">{description}</p>
 	</div>
 </article>
