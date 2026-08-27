@@ -10,6 +10,8 @@ const blog = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		heroImage: z.string(),
+		heroImageAlt: z.string().min(1),
+		heroImageCaption: z.string().min(1),
 		category: z.enum(['Philosophy', 'Mindfulness']),
 		tags: z.array(z.string()).default([]),
 		readTime: z.number().int().positive(),

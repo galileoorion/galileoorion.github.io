@@ -4,6 +4,8 @@ description: "Plato is one of the most prominent philosophers of Ancient Greece.
 pubDate: "2021-06-27"
 updatedDate: "2025-08-04"
 heroImage: "/images/nothing-but-the-truth.jpg"
+heroImageAlt: "A hedgehog peering over a wooden ledge"
+heroImageCaption: "A hedgehog peers beyond the edge of what is immediately visible."
 category: "Philosophy"
 tags: ["Plato","opinion","knowledge","truth","scientific method"]
 readTime: 4
@@ -40,4 +42,3 @@ Plato believed that our task is not to explore different opinions and try to rec
 The idea that we must search for *the truth, the whole truth, and nothing but the truth* marks a turning point in human history. Although Plato did not possess all the pieces needed to construct the vibrant mosaic of the [scientific method](https://plato.stanford.edu/entries/scientific-method/), his insight --- that the only way to understand the world is to begin with what is known, proceed step by step through deductive reasoning, and reject what cannot be proven --- is one of its largest and brightest tiles. This insight, born from the desire to know the truth, paved the way for the development of mathematics and natural philosophy. When combined with experimentation and inductive reasoning, it forms a powerful solution from which the scientific method can be crystallised. This method has become the solid, though often invisible, pillar upon which our technologically advanced civilisation rests.
 
 As surprising as it may seem, when we dig deep to uncover the foundations of our modern life, what we find is not fake news or deceptive politics, but a relentless, stubborn insistence on the truth.
-

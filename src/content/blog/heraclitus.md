@@ -4,6 +4,8 @@ description: "Heraclitus and the idea that you cannot step into the same river t
 pubDate: "2020-06-30"
 updatedDate: "2020-12-11"
 heroImage: "/images/heraclitus.jpg"
+heroImageAlt: "A shallow forest stream flowing around large dark rocks"
+heroImageCaption: "A stream flows around rocks, echoing Heraclitus's ever-changing river."
 category: "Philosophy"
 tags: ["Heraclitus","philosophy"]
 readTime: 3
@@ -51,4 +53,3 @@ See also
 #philosophy
 
 #Heraclitus
-

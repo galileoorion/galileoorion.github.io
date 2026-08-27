@@ -4,6 +4,8 @@ description: "Plato's allegory of the cave is probably the best-known parable in
 pubDate: "2020-10-25"
 updatedDate: "2020-12-11"
 heroImage: "/images/plato-cave.jpg"
+heroImageAlt: "A star-filled night sky seen through the opening of a rocky cave"
+heroImageCaption: "The view beyond a cave evokes Plato's allegory of leaving shadows behind."
 category: "Philosophy"
 tags: ["beliefs","Plato","philosophy"]
 readTime: 4
@@ -94,4 +96,3 @@ I think that this is just one layer of the message in the allegory of the cave. 
 #Plato
 
 #beliefs
-

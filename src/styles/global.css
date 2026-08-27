@@ -41,6 +41,26 @@ img {
 	max-width: 100%;
 }
 
+.skip-link {
+	position: fixed;
+	top: 12px;
+	left: 12px;
+	z-index: 100;
+	padding: 10px 14px;
+	border: 2px solid var(--ink);
+	background: var(--paper);
+	font-family: var(--heading);
+	font-size: 14px;
+	text-decoration: none;
+	transform: translateY(calc(-100% - 20px));
+}
+
+.skip-link:focus {
+	outline: 3px solid var(--accent);
+	outline-offset: 3px;
+	transform: translateY(0);
+}
+
 .site-frame {
 	position: relative;
 	z-index: 1;
@@ -176,6 +196,10 @@ img {
 	width: 100%;
 	max-height: 560px;
 	object-fit: cover;
+}
+
+.article-figure {
+	margin: 0;
 }
 
 .prose {

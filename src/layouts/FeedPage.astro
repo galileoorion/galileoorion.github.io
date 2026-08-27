@@ -19,9 +19,10 @@ const { posts } = Astro.props;
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
+		<a class="skip-link" href="#main-content">Skip to content</a>
 		<div class="site-frame">
 			<Header />
-			<main class="feed">
+			<main id="main-content" class="feed">
 				<h1 class="sr-only">{SITE_TITLE}</h1>
 				<div class="post-list">
 					{posts.map((post) => <PostCard post={post} />)}

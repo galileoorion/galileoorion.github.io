@@ -4,6 +4,8 @@ description: "Pythagoras is one of the strangest and most influential philosophe
 pubDate: "2020-07-04"
 updatedDate: "2020-12-10"
 heroImage: "/images/pythagoras.jpg"
+heroImageAlt: "Profile of a ring-tailed lemur with a bright amber eye"
+heroImageCaption: "A ring-tailed lemur looks intently into the distance."
 category: "Philosophy"
 tags: ["Pythagoras","philosophy"]
 readTime: 3
@@ -52,4 +54,3 @@ Still, Pythagoras was right that numbers can describe certain segments of the re
 #philosophy
 
 #Pythagoras
-

@@ -4,6 +4,8 @@ description: "We form opinions about people within a single second. Can we becom
 pubDate: "2020-12-11"
 updatedDate: "2025-08-04"
 heroImage: "/images/judgement-and-acceptance.jpg"
+heroImageAlt: "Two grey wolves resting together in snow, one leaning against the other"
+heroImageCaption: "Two wolves rest together, suggesting trust and acceptance."
 category: "Mindfulness"
 tags: ["psychology","Jung","first impression","judgements"]
 readTime: 4
@@ -68,4 +70,3 @@ In brief,
 * if we train ourselves to notice the good in others,
 
 we can take a big step towards a more open and less judgemental mindset. It can help us develop healthier and deeper relationships both in our professional and in our private lives.
-

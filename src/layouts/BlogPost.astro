@@ -12,6 +12,8 @@ interface Props {
 	pubDate: Date;
 	updatedDate?: Date;
 	heroImage: string;
+	heroImageAlt: string;
+	heroImageCaption: string;
 	readTime: number;
 	author: string;
 	category: string;
@@ -19,8 +21,20 @@ interface Props {
 	relatedPosts: CollectionEntry<'blog'>[];
 }
 
-const { title, description, pubDate, updatedDate, heroImage, readTime, author, category, tags, relatedPosts } =
-	Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	heroImageAlt,
+	heroImageCaption,
+	readTime,
+	author,
+	category,
+	tags,
+	relatedPosts,
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -39,13 +53,14 @@ const { title, description, pubDate, updatedDate, heroImage, readTime, author, c
 		/>
 	</head>
 	<body>
+		<a class="skip-link" href="#main-content">Skip to content</a>
 		<div class="site-frame">
 			<Header />
-			<main class="article-shell">
+			<main id="main-content" class="article-shell">
 				<article class="article-card">
 					<header class="article-header">
 						<div class="author-line">
-							<img src="/images/author.jpg" alt="" />
+							<img src="/images/author.jpg" alt={`Portrait of ${author}`} />
 							<div>
 								<span>{author}</span>
 								<div><FormattedDate date={pubDate} /> <span aria-hidden="true">·</span> {readTime} min read</div>
@@ -54,7 +69,10 @@ const { title, description, pubDate, updatedDate, heroImage, readTime, author, c
 						<h1>{title}</h1>
 						{updatedDate && <p class="updated">Updated: <FormattedDate date={updatedDate} /></p>}
 					</header>
-					<img class="article-hero" src={heroImage} alt="" />
+					<figure class="article-figure">
+						<img class="article-hero" src={heroImage} alt={heroImageAlt} />
+						<figcaption class="sr-only">{heroImageCaption}</figcaption>
+					</figure>
 					<div class="prose"><slot /></div>
 					<a class="back-link" href="/">← All Posts</a>
 				</article>

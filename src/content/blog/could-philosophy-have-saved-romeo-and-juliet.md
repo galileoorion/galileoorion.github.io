@@ -4,6 +4,8 @@ description: "Perfection is ignorance. Love is perfection. Love is ignorance."
 pubDate: "2021-03-12"
 updatedDate: "2025-08-04"
 heroImage: "/images/romeo-and-juliet.jpeg"
+heroImageAlt: "A white sculpture of two lovers embracing against a dark background"
+heroImageCaption: "Two lovers embrace, reflecting the idealised love of Romeo and Juliet."
 category: "Philosophy"
 tags: ["Plato","Platonic love","theory of forms","Romeo and Juliet"]
 readTime: 4

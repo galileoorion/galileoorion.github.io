@@ -4,6 +4,8 @@ description: "An argumentative dialogue designed to stimulate critical thinking 
 pubDate: "2020-07-26"
 updatedDate: "2020-12-10"
 heroImage: "/images/socratic-method.jpg"
+heroImageAlt: "Two bright green parrots facing each other on a branch"
+heroImageCaption: "Two parrots face one another, suggesting dialogue and exchange."
 category: "Philosophy"
 tags: ["Socrates","philosophy"]
 readTime: 2
@@ -54,4 +56,3 @@ Sources:
 #philosophy
 
 #Socrates
-
